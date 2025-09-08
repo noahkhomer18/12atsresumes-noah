@@ -61,8 +61,7 @@ Hey! I'm Noah. I've been making resumes since I was 19, and honestly, I love it.
 ## Contact
 
 - **Fiverr**: [Get your resume](https://www.fiverr.com/s/bdZxGKN)
-- **Email**: contact@noahkhomer.com
-
+- 
 ## License
 
 © 2025 Noah Khomer. All rights reserved.
